@@ -40,16 +40,15 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
 
 ### 🚀 Featured Projects
 
+* **[Farmacia-POS-AWOS](#) - Advanced Pharmacy Point of Sale:** A comprehensive Fullstack Point of Sale and Inventory Management system designed for local pharmacies. Features real-time stock tracking, sales reporting, and user role management, emphasizing clean architecture.
 * **[MapUPP](#) - 3D Geospatial Visualization:** A multiplatform native client and REST API for university schedule and location management. Built with a 3-tier architecture using Kotlin, Jetpack Compose, Mapbox v11, Flask, and MongoDB Atlas.
-* **[Skateboard Shop POS](#) - Logistics & Inventory System:** A comprehensive multi-branch management platform developed in Java, integrating an Oracle SQL database and territorial data.
 * **[MKR](#) - Smart Perimeter Protection:** Technical lead for a security system integrating Computer Vision (YOLO/MoveNet) for suspicious activity detection, strictly documented under IEEE 830 standards.
 * **[Nexo Finanzas](#) - Personal Finance App:** Income and expense management system designed for clean architecture and intuitive user experience.
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADanicode&show_icons=true&theme=radical&count_private=true" alt="ADanicode's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADanicode&layout=compact&theme=radical&hide=php,html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADanicode&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="ADanicode's GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
