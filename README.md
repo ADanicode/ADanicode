@@ -40,7 +40,7 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
 
 ### 🚀 Featured Projects
 
-* **[Farmacia-POS-AWOS](#) - Advanced Pharmacy Point of Sale:** A comprehensive Fullstack Point of Sale and Inventory Management system designed for local pharmacies. Features real-time stock tracking, sales reporting, and user role management, emphasizing clean architecture.
+* **[Farmacia-POS-AWOS](https://github.com/ADanicode/Farmacia-POS-AWOS) - Advanced Pharmacy Point of Sale:** A comprehensive Fullstack Point of Sale and Inventory Management system designed for local pharmacies. Features real-time stock tracking, sales reporting, and user role management, emphasizing clean architecture.
 * **[MapUPP](#) - 3D Geospatial Visualization:** A multiplatform native client and REST API for university schedule and location management. Built with a 3-tier architecture using Kotlin, Jetpack Compose, Mapbox v11, Flask, and MongoDB Atlas.
 * **[MKR](#) - Smart Perimeter Protection:** Technical lead for a security system integrating Computer Vision (YOLO/MoveNet) for suspicious activity detection, strictly documented under IEEE 830 standards.
 * **[Nexo Finanzas](#) - Personal Finance App:** Income and expense management system designed for clean architecture and intuitive user experience.
