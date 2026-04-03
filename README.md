@@ -52,12 +52,12 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
     <img src="https://streak-stats.demolab.com?user=ADanicode&theme=city-lights" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="ADanicode's Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADanicode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-       height="192px"/>
-</a>
-
+    <img alt="ADanicode's Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADanicode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+         height="192px"/>
+  </a>
 </p>
+
 
 
 ### 📫 Let's Connect
