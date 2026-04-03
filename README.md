@@ -48,8 +48,11 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ADanicode&theme=city-lights)](https://git.io/streak-stats)" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ADanicode&theme=city-lights" />
+  </a>
 </p>
+
 
 ### 📫 Let's Connect
 
