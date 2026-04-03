@@ -46,17 +46,25 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
 * **[Nexo Finanzas](#) - Personal Finance App:** Income and expense management system designed for clean architecture and intuitive user experience.
 
 ### 📊 GitHub Stats
-
+<!-- Bloque 1: Streak -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ADanicode&theme=city-lights" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="ADanicode's Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADanicode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
-         height="192px"/>
+    <img src="https://streak-stats.demolab.com?user=ADanicode&theme=city-lights" alt="GitHub Streak" />
   </a>
 </p>
+
+<!-- Bloque 2: Stats generales -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADanicode&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+</p>
+
+<!-- Bloque 3: Top Languages -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADanicode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Top Languages" />
+  </a>
+</p>
+
 
 
 
