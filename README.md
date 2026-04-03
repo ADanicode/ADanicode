@@ -48,7 +48,7 @@ I care deeply about software quality, applying **SOLID principles**, agile metho
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADanicode&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="ADanicode's GitHub Stats" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ADanicode&theme=city-lights)](https://git.io/streak-stats)" />
 </p>
 
 ### 📫 Let's Connect
